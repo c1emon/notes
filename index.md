@@ -6,7 +6,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-[送1](https://cjw7360.github.io/notes/数值分析/第一章、绪论.html "t1")
+[第一章、绪论](https://cjw7360.github.io/notes/数值分析/第一章、绪论.html "data-analysis-ch1")
+[第二章、非线性方程求根](https://cjw7360.github.io/notes/数值分析/第二章、非线性方程求根.html "data-analysis-ch2")
+[第三章、插值与拟合](https://cjw7360.github.io/notes/数值分析/第三章、插值与拟合.html "data-analysis-ch3")
+[第四章、数值积分](https://cjw7360.github.io/notes/数值分析/第四章、数值积分.html "data-analysis-ch4")
+[第五章、常微分方程初值问题的数值解法](https://cjw7360.github.io/notes/数值分析/第五章、常微分方程初值问题的数值解法.html "data-analysis-ch5")
+[第六章、线性代数方程组的直接解法](https://cjw7360.github.io/notes/数值分析/第六章、线性代数方程组的直接解法.html "data-analysis-ch6")
+[第七章、线性代数方程组的迭代解法](https://cjw7360.github.io/notes/数值分析/第七章、线性代数方程组的迭代解法.html "data-analysis-ch7")
+[第八章、矩阵特征值问题的解法](https://cjw7360.github.io/notes/数值分析/第八章、矩阵特征值问题的解法.html "data-analysis-ch8")
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
