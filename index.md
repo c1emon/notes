@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-[送1](https://cjw7360.github.io/notes/数值分析/第一章、绪论.md "t1")
+[送1](https://cjw7360.github.io/notes/数值分析/第一章、绪论.html "t1")
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
