@@ -1,6 +1,6 @@
 # Welcome to visit my notebook!
 
-## 1ST. Part of data analysis
+## 1ST. Data analysis
 [第一章、绪论](https://cjw7360.github.io/notes/数值分析/第一章、绪论.html "data-analysis-ch1")
 
 [第二章、非线性方程求根](https://cjw7360.github.io/notes/数值分析/第二章、非线性方程求根.html "data-analysis-ch2")
@@ -20,3 +20,5 @@
 ## 2ND. Modern control theory
 [现代控制理论](https://cjw7360.github.io/notes/现代控制理论/现控.html "modern-control-theory")
 
+## 3RD. Matrix theory
+[第一章、距离空间、线性空间、赋范空间、内积空间](https://cjw7360.github.io/notes/矩阵论/第一章、距离空间、线性空间、赋范空间、内积空间.html "matrix-theory-ch1")
