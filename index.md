@@ -22,3 +22,5 @@
 
 ## 3RD. Matrix theory
 [第一章、距离空间、线性空间、赋范空间、内积空间](https://cjw7360.github.io/notes/矩阵论/第一章、距离空间、线性空间、赋范空间、内积空间.html "matrix-theory-ch1")
+
+[第二章、矩阵范数及酉矩阵](https://cjw7360.github.io/notes/矩阵论/第二章、矩阵范数及酉矩阵.html "matrix-theory-ch2")
