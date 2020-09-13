@@ -30,3 +30,5 @@
 [第四章、多项式矩阵](https://cjw7360.github.io/notes/矩阵论/第四章、多项式矩阵.html "matrix-theory-ch4")
 
 [第五章、数字方阵的Jordan标准型](https://cjw7360.github.io/notes/矩阵论/第五章、数字方阵的Jordan标准型.html "matrix-theory-ch5")
+
+[第六章、数字方阵的酉相似标准型](https://cjw7360.github.io/notes/矩阵论/第六章、数字方阵的酉相似标准型.html "matrix-theory-ch6")
