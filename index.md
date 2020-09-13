@@ -26,3 +26,5 @@
 [第二章、矩阵范数及酉矩阵](https://cjw7360.github.io/notes/矩阵论/第二章、矩阵范数及酉矩阵.html "matrix-theory-ch2")
 
 [第三章、矩阵序列及矩阵级数](https://cjw7360.github.io/notes/矩阵论/第三章、矩阵序列及矩阵级数.html "matrix-theory-ch3")
+
+[第四章、多项式矩阵](https://cjw7360.github.io/notes/矩阵论/第四章、多项式矩阵.html "matrix-theory-ch4")
